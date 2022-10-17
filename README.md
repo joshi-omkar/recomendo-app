@@ -1,2 +1,4 @@
 # recomendo-app
-Created with CodeSandbox
+Find which animal emoji is look like. 
+
+Made in ReactJS
